@@ -1,0 +1,15 @@
+Wiper is an essential component that used to wipe the raindrops or any water from the windscreen. Wipers are designed and made to clear the water from a windscreen. Most of cars have two wipers on the windscreen, one on the rear window and the other on each headlight. The wiper parts visible from outside the car are the rubber blade, the wiper arm holding the blade, a spring linkage, and parts of the wiper pivots. The wiper itself has about six parts called pressure points or claws that are small arms under the wiper. Existing system manually used control stalk to activate wiper and the process of pulling up wiper is difficult to be handled. The driver needs to switch on and off the control stalk and it will reduce the driver’s concentration during the driving. Thus, this system is proposed to solve all these problems. The concept of this wiper system is similar with other conventional wiper, yet this system will be upgraded to an automatic control system by using a controller. Whenever the water hit a dedicated sensor that located on windscreen, it will send a signal to move on the wiper motor. Once water is not detected by sensor, the wiper will automatically stop. This will help the driver to give more concentration and reduce the car accident probability
+For the water sensor circuit, the plate will be used as the component to sense the existing of water. However, this sensor
+was not very effective as it senses the water, the system will automatically ON the wiper at only one speed. The second
+conceptual design is a two lines plate with a high and low line. The function of the low line plate is to detect the
+showery rain. The high line plate is to detect the heavy rain. The third conceptual used the stamping concept. The
+stamping sensor is a good sensor for sensing the moist, any kind of water or raindrops. Nevertheless the sensor is very
+expensive. After considered all these criteria, second conceptual design was chosen to construct the circuit. The circuit
+was changes from single relay to double relay as an input to PIC controller system.
+.CONCLUSION
+As the conclusion for the project, the results shows all the aim objectives are successfully achieved. The wiper system
+was well functionally according the water condition from the outside of a car. This project showed a contribution on the
+design of the automatic wiper system for the future research in this field. For the future improvement, it is
+recommended the system to have literature review on the material been used as the wiper, because the material used is
+still has a problem in the procure issues especially for the hot and climate country. Other suggestion for designing
+automatic push up wiper for future research and improvement is about the design stand for the wiper.
