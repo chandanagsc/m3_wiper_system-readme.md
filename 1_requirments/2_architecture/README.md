@@ -1,0 +1,6 @@
+![download](https://user-images.githubusercontent.com/101986763/168418973-f7655278-9715-4a8c-a016-62059586c3ed.png)
+![Uploading download.png…]()
+
+
+ESIGN It was found that the rain sensor is the expensive unit in the present system and an effort is done in making a sensor which is reasonable by price, the Cup Sensor. The sensing device used here is basically a conical shaped cup with a tray on the top of the cup to collect maximum possible amount of water. The different views of the device are shown below. When the rain begins and the visibility to the driver is reducing, the system has to trigger the wiper to wipe the water on the screen. It can so happen that the driver feels the need of wiper but because the floater has not reached the level of the probe the system may not begin its function. Thus certain conditions were considered and the calculations were carried out for the placement of the probes at appropriate heights. Also there is a small opening at the bottom of the cup which eventually drains water from the cup. If the rate of filling is greater than rate of discharge of rain water than the water level rises to the next probe level and hence the wiper speed increases. FIG . The water collected at the bottom in a cup type rain sensor 6
+
